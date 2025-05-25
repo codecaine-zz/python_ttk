@@ -1,0 +1,30 @@
+{
+  "default_settings": {
+    "treeview_items": 1000,
+    "label_updates": 5000,
+    "window_count": 50,
+    "widget_count": 200,
+    "memory_test_mb": 100,
+    "auto_save": true,
+    "show_system_info": true,
+    "verbose_mode": false,
+    "theme": "default"
+  },
+  "stress_test": {
+    "default_iterations": 5,
+    "default_multiplier": 2.0,
+    "max_iterations": 20,
+    "max_multiplier": 10.0
+  },
+  "performance_thresholds": {
+    "treeview_items_per_second": 1000,
+    "widgets_per_second": 100,
+    "updates_per_second": 1000,
+    "window_operations_per_second": 10
+  },
+  "export_formats": [
+    "json",
+    "csv",
+    "html"
+  ]
+}
