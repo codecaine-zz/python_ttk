@@ -2,6 +2,8 @@
 
 A comprehensive benchmarking tool for testing Tkinter/TTK performance across different systems and configurations. This application provides detailed performance metrics for various GUI operations and helps developers optimize their Tkinter applications.
 
+![TTK Benchmark Test App Screenshot](screenshot.png)
+
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
